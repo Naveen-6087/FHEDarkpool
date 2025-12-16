@@ -1,0 +1,54 @@
+# fhevm
+fhevmTemp
+
+# directories
+.coverage_artifacts
+.coverage_cache
+.coverage_contracts
+artifacts
+build
+cache
+coverage
+dist
+node_modules
+types
+deployments
+tmp
+
+# files
+*.env
+*.env.local
+*.env.*.local
+*.log
+.DS_Store
+.pnp.*
+coverage.json
+pnpm-lock.yaml
+yarn.lock
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Hardhat files
+.hardhat_node
+hardhat_artifacts
+.hardhat
+
+# Temporary files
+*.tmp
+temp/
+
